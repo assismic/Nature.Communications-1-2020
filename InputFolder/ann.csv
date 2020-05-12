@@ -1,0 +1,290 @@
+Index,Array Row,Array Column,Spot Row,Spot Column,ID,Spot.Type,KillerTrio,Virus,CoV,Unique.ID,Spot.Order
+45,1,1,3,11,SARS-CoV-2_NP,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_NP.1,1
+112,1,1,7,10,SARS-CoV-2_NP,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_NP.2,2
+179,1,1,11,9,SARS-CoV-2_NP,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_NP.3,3
+246,1,1,15,8,SARS-CoV-2_NP,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_NP.4,4
+41,1,1,3,7,"SARS-CoV-2_S1, (Fc Tag)",Antigen,No,CoV-SARS-2,Yes,"SARS-CoV-2_S1, (Fc Tag).1",1
+108,1,1,7,6,"SARS-CoV-2_S1, (Fc Tag)",Antigen,No,CoV-SARS-2,Yes,"SARS-CoV-2_S1, (Fc Tag).2",2
+175,1,1,11,5,"SARS-CoV-2_S1, (Fc Tag)",Antigen,No,CoV-SARS-2,Yes,"SARS-CoV-2_S1, (Fc Tag).3",3
+242,1,1,15,4,"SARS-CoV-2_S1, (Fc Tag)",Antigen,No,CoV-SARS-2,Yes,"SARS-CoV-2_S1, (Fc Tag).4",4
+40,1,1,3,6,"SARS-CoV-2_S1, (His Tag)",Antigen,Yes,CoV-SARS-2,Yes,"SARS-CoV-2_S1, (His Tag).1",1
+107,1,1,7,5,"SARS-CoV-2_S1, (His Tag)",Antigen,Yes,CoV-SARS-2,Yes,"SARS-CoV-2_S1, (His Tag).2",2
+174,1,1,11,4,"SARS-CoV-2_S1, (His Tag)",Antigen,Yes,CoV-SARS-2,Yes,"SARS-CoV-2_S1, (His Tag).3",3
+241,1,1,15,3,"SARS-CoV-2_S1, (His Tag)",Antigen,Yes,CoV-SARS-2,Yes,"SARS-CoV-2_S1, (His Tag).4",4
+42,1,1,3,8,"SARS-CoV-2_S1, (mFc Tag)",Antigen,Yes,CoV-SARS-2,Yes,"SARS-CoV-2_S1, (mFc Tag).1",1
+109,1,1,7,7,"SARS-CoV-2_S1, (mFc Tag)",Antigen,Yes,CoV-SARS-2,Yes,"SARS-CoV-2_S1, (mFc Tag).2",2
+176,1,1,11,6,"SARS-CoV-2_S1, (mFc Tag)",Antigen,Yes,CoV-SARS-2,Yes,"SARS-CoV-2_S1, (mFc Tag).3",3
+243,1,1,15,5,"SARS-CoV-2_S1, (mFc Tag)",Antigen,Yes,CoV-SARS-2,Yes,"SARS-CoV-2_S1, (mFc Tag).4",4
+44,1,1,3,10,SARS-CoV-2_S1+S2,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_S1+S2.1,1
+111,1,1,7,9,SARS-CoV-2_S1+S2,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_S1+S2.2,2
+178,1,1,11,8,SARS-CoV-2_S1+S2,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_S1+S2.3,3
+245,1,1,15,7,SARS-CoV-2_S1+S2,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_S1+S2.4,4
+39,1,1,3,5,SARS-CoV-2_S1-RBD,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_S1-RBD.1,1
+106,1,1,7,4,SARS-CoV-2_S1-RBD,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_S1-RBD.2,2
+173,1,1,11,3,SARS-CoV-2_S1-RBD,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_S1-RBD.3,3
+240,1,1,15,2,SARS-CoV-2_S1-RBD,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_S1-RBD.4,4
+43,1,1,3,9,SARS-CoV-2_S2,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_S2.1,1
+110,1,1,7,8,SARS-CoV-2_S2,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_S2.2,2
+177,1,1,11,7,SARS-CoV-2_S2,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_S2.3,3
+244,1,1,15,6,SARS-CoV-2_S2,Antigen,Yes,CoV-SARS-2,Yes,SARS-CoV-2_S2.4,4
+285,1,1,17,13,a-Hu IgA 0.1,Control,No,Controls,No,a-Hu IgA 0.1.,.
+284,1,1,17,12,a-Hu IgA 0.3,Control,No,Controls,No,a-Hu IgA 0.3.,.
+288,1,1,17,16,a-Hu IgG 0.1,Control,No,Controls,No,a-Hu IgG 0.1.,.
+287,1,1,17,15,a-Hu IgG 0.3,Control,No,Controls,No,a-Hu IgG 0.3.,.
+282,1,1,17,10,a-Hu IgM 0.1,Control,No,Controls,No,a-Hu IgM 0.1.,.
+281,1,1,17,9,a-Hu IgM 0.3,Control,No,Controls,No,a-Hu IgM 0.3.,.
+72,1,1,5,4,B_B/Malaysia/2506/2004_HA1,Antigen,No,Influenza,No,B_B/Malaysia/2506/2004_HA1.1,1
+139,1,1,9,3,B_B/Malaysia/2506/2004_HA1,Antigen,No,Influenza,No,B_B/Malaysia/2506/2004_HA1.2,2
+206,1,1,13,2,B_B/Malaysia/2506/2004_HA1,Antigen,No,Influenza,No,B_B/Malaysia/2506/2004_HA1.3,3
+273,1,1,17,1,B_B/Malaysia/2506/2004_HA1,Antigen,No,Influenza,No,B_B/Malaysia/2506/2004_HA1.4,4
+73,1,1,5,5,B_B/Malaysia/2506/2004_HA1+HA2,Antigen,No,Influenza,No,B_B/Malaysia/2506/2004_HA1+HA2.1,1
+140,1,1,9,4,B_B/Malaysia/2506/2004_HA1+HA2,Antigen,No,Influenza,No,B_B/Malaysia/2506/2004_HA1+HA2.2,2
+207,1,1,13,3,B_B/Malaysia/2506/2004_HA1+HA2,Antigen,No,Influenza,No,B_B/Malaysia/2506/2004_HA1+HA2.3,3
+274,1,1,17,2,B_B/Malaysia/2506/2004_HA1+HA2,Antigen,No,Influenza,No,B_B/Malaysia/2506/2004_HA1+HA2.4,4
+74,1,1,5,6,B_B/Phuket/3073/2013_HA1,Antigen,No,Influenza,No,B_B/Phuket/3073/2013_HA1.1,1
+141,1,1,9,5,B_B/Phuket/3073/2013_HA1,Antigen,No,Influenza,No,B_B/Phuket/3073/2013_HA1.2,2
+208,1,1,13,4,B_B/Phuket/3073/2013_HA1,Antigen,No,Influenza,No,B_B/Phuket/3073/2013_HA1.3,3
+275,1,1,17,3,B_B/Phuket/3073/2013_HA1,Antigen,No,Influenza,No,B_B/Phuket/3073/2013_HA1.4,4
+75,1,1,5,7,B_B/Phuket/3073/2013_HA1+HA2,Antigen,No,Influenza,No,B_B/Phuket/3073/2013_HA1+HA2.1,1
+142,1,1,9,6,B_B/Phuket/3073/2013_HA1+HA2,Antigen,No,Influenza,No,B_B/Phuket/3073/2013_HA1+HA2.2,2
+209,1,1,13,5,B_B/Phuket/3073/2013_HA1+HA2,Antigen,No,Influenza,No,B_B/Phuket/3073/2013_HA1+HA2.3,3
+276,1,1,17,4,B_B/Phuket/3073/2013_HA1+HA2,Antigen,No,Influenza,No,B_B/Phuket/3073/2013_HA1+HA2.4,4
+2,1,1,1,2,BUFFER,Buffer,No,Controls,No,BUFFER.1,1
+3,1,1,1,3,BUFFER,Buffer,No,Controls,No,BUFFER.2,2
+21,1,1,2,4,DcCoV_HKU23-368F_NP,Antigen,No,DcCoV,Yes,DcCoV_HKU23-368F_NP.1,1
+88,1,1,6,3,DcCoV_HKU23-368F_NP,Antigen,No,DcCoV,Yes,DcCoV_HKU23-368F_NP.2,2
+155,1,1,10,2,DcCoV_HKU23-368F_NP,Antigen,No,DcCoV,Yes,DcCoV_HKU23-368F_NP.3,3
+222,1,1,14,1,DcCoV_HKU23-368F_NP,Antigen,No,DcCoV,Yes,DcCoV_HKU23-368F_NP.4,4
+68,1,1,4,17,H1N1_A/Beijing/22808/2009_HA1,Antigen,No,Influenza,No,H1N1_A/Beijing/22808/2009_HA1.1,1
+135,1,1,8,16,H1N1_A/Beijing/22808/2009_HA1,Antigen,No,Influenza,No,H1N1_A/Beijing/22808/2009_HA1.2,2
+202,1,1,12,15,H1N1_A/Beijing/22808/2009_HA1,Antigen,No,Influenza,No,H1N1_A/Beijing/22808/2009_HA1.3,3
+269,1,1,16,14,H1N1_A/Beijing/22808/2009_HA1,Antigen,No,Influenza,No,H1N1_A/Beijing/22808/2009_HA1.4,4
+69,1,1,5,1,H1N1_A/Beijing/22808/2009_HA1+HA2,Antigen,No,Influenza,No,H1N1_A/Beijing/22808/2009_HA1+HA2.1,1
+136,1,1,8,17,H1N1_A/Beijing/22808/2009_HA1+HA2,Antigen,No,Influenza,No,H1N1_A/Beijing/22808/2009_HA1+HA2.2,2
+203,1,1,12,16,H1N1_A/Beijing/22808/2009_HA1+HA2,Antigen,No,Influenza,No,H1N1_A/Beijing/22808/2009_HA1+HA2.3,3
+270,1,1,16,15,H1N1_A/Beijing/22808/2009_HA1+HA2,Antigen,No,Influenza,No,H1N1_A/Beijing/22808/2009_HA1+HA2.4,4
+70,1,1,5,2,H3N2_A/Texas/50/2012_HA1,Antigen,No,Influenza,No,H3N2_A/Texas/50/2012_HA1.1,1
+137,1,1,9,1,H3N2_A/Texas/50/2012_HA1,Antigen,No,Influenza,No,H3N2_A/Texas/50/2012_HA1.2,2
+204,1,1,12,17,H3N2_A/Texas/50/2012_HA1,Antigen,No,Influenza,No,H3N2_A/Texas/50/2012_HA1.3,3
+271,1,1,16,16,H3N2_A/Texas/50/2012_HA1,Antigen,No,Influenza,No,H3N2_A/Texas/50/2012_HA1.4,4
+71,1,1,5,3,H3N2_A/Texas/50/2012_HA1+HA2,Antigen,No,Influenza,No,H3N2_A/Texas/50/2012_HA1+HA2.1,1
+138,1,1,9,2,H3N2_A/Texas/50/2012_HA1+HA2,Antigen,No,Influenza,No,H3N2_A/Texas/50/2012_HA1+HA2.2,2
+205,1,1,13,1,H3N2_A/Texas/50/2012_HA1+HA2,Antigen,No,Influenza,No,H3N2_A/Texas/50/2012_HA1+HA2.3,3
+272,1,1,16,17,H3N2_A/Texas/50/2012_HA1+HA2,Antigen,No,Influenza,No,H3N2_A/Texas/50/2012_HA1+HA2.4,4
+76,1,1,5,8,H5N1_A/Vietnam/1203/2004_HA1,Antigen,No,Influenza,No,H5N1_A/Vietnam/1203/2004_HA1.1,1
+143,1,1,9,7,H5N1_A/Vietnam/1203/2004_HA1,Antigen,No,Influenza,No,H5N1_A/Vietnam/1203/2004_HA1.2,2
+210,1,1,13,6,H5N1_A/Vietnam/1203/2004_HA1,Antigen,No,Influenza,No,H5N1_A/Vietnam/1203/2004_HA1.3,3
+277,1,1,17,5,H5N1_A/Vietnam/1203/2004_HA1,Antigen,No,Influenza,No,H5N1_A/Vietnam/1203/2004_HA1.4,4
+77,1,1,5,9,H5N1_A/Vietnam/1203/2004_HA1+HA2,Antigen,No,Influenza,No,H5N1_A/Vietnam/1203/2004_HA1+HA2.1,1
+144,1,1,9,8,H5N1_A/Vietnam/1203/2004_HA1+HA2,Antigen,No,Influenza,No,H5N1_A/Vietnam/1203/2004_HA1+HA2.2,2
+211,1,1,13,7,H5N1_A/Vietnam/1203/2004_HA1+HA2,Antigen,No,Influenza,No,H5N1_A/Vietnam/1203/2004_HA1+HA2.3,3
+278,1,1,17,6,H5N1_A/Vietnam/1203/2004_HA1+HA2,Antigen,No,Influenza,No,H5N1_A/Vietnam/1203/2004_HA1+HA2.4,4
+78,1,1,5,10,H7N9_A/Anhui/1/2013_HA1,Antigen,No,Influenza,No,H7N9_A/Anhui/1/2013_HA1.1,1
+145,1,1,9,9,H7N9_A/Anhui/1/2013_HA1,Antigen,No,Influenza,No,H7N9_A/Anhui/1/2013_HA1.2,2
+212,1,1,13,8,H7N9_A/Anhui/1/2013_HA1,Antigen,No,Influenza,No,H7N9_A/Anhui/1/2013_HA1.3,3
+279,1,1,17,7,H7N9_A/Anhui/1/2013_HA1,Antigen,No,Influenza,No,H7N9_A/Anhui/1/2013_HA1.4,4
+79,1,1,5,11,H7N9_A/Anhui/1/2013_HA1+HA2,Antigen,No,Influenza,No,H7N9_A/Anhui/1/2013_HA1+HA2.1,1
+146,1,1,9,10,H7N9_A/Anhui/1/2013_HA1+HA2,Antigen,No,Influenza,No,H7N9_A/Anhui/1/2013_HA1+HA2.2,2
+213,1,1,13,9,H7N9_A/Anhui/1/2013_HA1+HA2,Antigen,No,Influenza,No,H7N9_A/Anhui/1/2013_HA1+HA2.3,3
+280,1,1,17,8,H7N9_A/Anhui/1/2013_HA1+HA2,Antigen,No,Influenza,No,H7N9_A/Anhui/1/2013_HA1+HA2.4,4
+62,1,1,4,11,hAdV-3/45659_Fiber,Antigen,No,Adenovirus,No,hAdV-3/45659_Fiber.1,1
+129,1,1,8,10,hAdV-3/45659_Fiber,Antigen,No,Adenovirus,No,hAdV-3/45659_Fiber.2,2
+196,1,1,12,9,hAdV-3/45659_Fiber,Antigen,No,Adenovirus,No,hAdV-3/45659_Fiber.3,3
+263,1,1,16,8,hAdV-3/45659_Fiber,Antigen,No,Adenovirus,No,hAdV-3/45659_Fiber.4,4
+63,1,1,4,12,hAdV-3/45659_Penton,Antigen,No,Adenovirus,No,hAdV-3/45659_Penton.1,1
+130,1,1,8,11,hAdV-3/45659_Penton,Antigen,No,Adenovirus,No,hAdV-3/45659_Penton.2,2
+197,1,1,12,10,hAdV-3/45659_Penton,Antigen,No,Adenovirus,No,hAdV-3/45659_Penton.3,3
+264,1,1,16,9,hAdV-3/45659_Penton,Antigen,No,Adenovirus,No,hAdV-3/45659_Penton.4,4
+64,1,1,4,13,hAdV-4/28280_Fiber,Antigen,No,Adenovirus,No,hAdV-4/28280_Fiber.1,1
+131,1,1,8,12,hAdV-4/28280_Fiber,Antigen,No,Adenovirus,No,hAdV-4/28280_Fiber.2,2
+198,1,1,12,11,hAdV-4/28280_Fiber,Antigen,No,Adenovirus,No,hAdV-4/28280_Fiber.3,3
+265,1,1,16,10,hAdV-4/28280_Fiber,Antigen,No,Adenovirus,No,hAdV-4/28280_Fiber.4,4
+65,1,1,4,14,hAdV-4/28280_Penton,Antigen,No,Adenovirus,No,hAdV-4/28280_Penton.1,1
+132,1,1,8,13,hAdV-4/28280_Penton,Antigen,No,Adenovirus,No,hAdV-4/28280_Penton.2,2
+199,1,1,12,12,hAdV-4/28280_Penton,Antigen,No,Adenovirus,No,hAdV-4/28280_Penton.3,3
+266,1,1,16,11,hAdV-4/28280_Penton,Antigen,No,Adenovirus,No,hAdV-4/28280_Penton.4,4
+66,1,1,4,15,hAdV-7/10519_Fiber,Antigen,No,Adenovirus,No,hAdV-7/10519_Fiber.1,1
+133,1,1,8,14,hAdV-7/10519_Fiber,Antigen,No,Adenovirus,No,hAdV-7/10519_Fiber.2,2
+200,1,1,12,13,hAdV-7/10519_Fiber,Antigen,No,Adenovirus,No,hAdV-7/10519_Fiber.3,3
+267,1,1,16,12,hAdV-7/10519_Fiber,Antigen,No,Adenovirus,No,hAdV-7/10519_Fiber.4,4
+67,1,1,4,16,hAdV-7/10519_Penton,Antigen,No,Adenovirus,No,hAdV-7/10519_Penton.1,1
+134,1,1,8,15,hAdV-7/10519_Penton,Antigen,No,Adenovirus,No,hAdV-7/10519_Penton.2,2
+201,1,1,12,14,hAdV-7/10519_Penton,Antigen,No,Adenovirus,No,hAdV-7/10519_Penton.3,3
+268,1,1,16,13,hAdV-7/10519_Penton,Antigen,No,Adenovirus,No,hAdV-7/10519_Penton.4,4
+15,1,1,1,15,HCoV-229E_S1,Antigen,No,hCoV,Yes,HCoV-229E_S1.1,1
+82,1,1,5,14,HCoV-229E_S1,Antigen,No,hCoV,Yes,HCoV-229E_S1.2,2
+149,1,1,9,13,HCoV-229E_S1,Antigen,No,hCoV,Yes,HCoV-229E_S1.3,3
+216,1,1,13,12,HCoV-229E_S1,Antigen,No,hCoV,Yes,HCoV-229E_S1.4,4
+16,1,1,1,16,HCoV-229E_S1+S2,Antigen,No,hCoV,Yes,HCoV-229E_S1+S2.1,1
+83,1,1,5,15,HCoV-229E_S1+S2,Antigen,No,hCoV,Yes,HCoV-229E_S1+S2.2,2
+150,1,1,9,14,HCoV-229E_S1+S2,Antigen,No,hCoV,Yes,HCoV-229E_S1+S2.3,3
+217,1,1,13,13,HCoV-229E_S1+S2,Antigen,No,hCoV,Yes,HCoV-229E_S1+S2.4,4
+20,1,1,2,3,HCoV-HKU1_HE,Antigen,No,hCoV,Yes,HCoV-HKU1_HE.1,1
+87,1,1,6,2,HCoV-HKU1_HE,Antigen,No,hCoV,Yes,HCoV-HKU1_HE.2,2
+154,1,1,10,1,HCoV-HKU1_HE,Antigen,No,hCoV,Yes,HCoV-HKU1_HE.3,3
+221,1,1,13,17,HCoV-HKU1_HE,Antigen,No,hCoV,Yes,HCoV-HKU1_HE.4,4
+18,1,1,2,1,"HCoV-HKU1_S1, N-(AA13-756)",Antigen,No,hCoV,Yes,"HCoV-HKU1_S1, N-(AA13-756).1",1
+85,1,1,5,17,"HCoV-HKU1_S1, N-(AA13-756)",Antigen,No,hCoV,Yes,"HCoV-HKU1_S1, N-(AA13-756).2",2
+152,1,1,9,16,"HCoV-HKU1_S1, N-(AA13-756)",Antigen,No,hCoV,Yes,"HCoV-HKU1_S1, N-(AA13-756).3",3
+219,1,1,13,15,"HCoV-HKU1_S1, N-(AA13-756)",Antigen,No,hCoV,Yes,"HCoV-HKU1_S1, N-(AA13-756).4",4
+17,1,1,1,17,"HCoV-HKU1_S1, N-(AA1-760)",Antigen,No,hCoV,Yes,"HCoV-HKU1_S1, N-(AA1-760).1",1
+84,1,1,5,16,"HCoV-HKU1_S1, N-(AA1-760)",Antigen,No,hCoV,Yes,"HCoV-HKU1_S1, N-(AA1-760).2",2
+151,1,1,9,15,"HCoV-HKU1_S1, N-(AA1-760)",Antigen,No,hCoV,Yes,"HCoV-HKU1_S1, N-(AA1-760).3",3
+218,1,1,13,14,"HCoV-HKU1_S1, N-(AA1-760)",Antigen,No,hCoV,Yes,"HCoV-HKU1_S1, N-(AA1-760).4",4
+19,1,1,2,2,HCoV-HKU1_S1+S2,Antigen,No,hCoV,Yes,HCoV-HKU1_S1+S2.1,1
+86,1,1,6,1,HCoV-HKU1_S1+S2,Antigen,No,hCoV,Yes,HCoV-HKU1_S1+S2.2,2
+153,1,1,9,17,HCoV-HKU1_S1+S2,Antigen,No,hCoV,Yes,HCoV-HKU1_S1+S2.3,3
+220,1,1,13,16,HCoV-HKU1_S1+S2,Antigen,No,hCoV,Yes,HCoV-HKU1_S1+S2.4,4
+13,1,1,1,13,HCoV-NL63_S1,Antigen,No,hCoV,Yes,HCoV-NL63_S1.1,1
+80,1,1,5,12,HCoV-NL63_S1,Antigen,No,hCoV,Yes,HCoV-NL63_S1.2,2
+147,1,1,9,11,HCoV-NL63_S1,Antigen,No,hCoV,Yes,HCoV-NL63_S1.3,3
+214,1,1,13,10,HCoV-NL63_S1,Antigen,No,hCoV,Yes,HCoV-NL63_S1.4,4
+14,1,1,1,14,HCoV-NL63_S1+S2,Antigen,No,hCoV,Yes,HCoV-NL63_S1+S2.1,1
+81,1,1,5,13,HCoV-NL63_S1+S2,Antigen,No,hCoV,Yes,HCoV-NL63_S1+S2.2,2
+148,1,1,9,12,HCoV-NL63_S1+S2,Antigen,No,hCoV,Yes,HCoV-NL63_S1+S2.3,3
+215,1,1,13,11,HCoV-NL63_S1+S2,Antigen,No,hCoV,Yes,HCoV-NL63_S1+S2.4,4
+24,1,1,2,7,HCoV-OC43_HE,Antigen,No,hCoV,Yes,HCoV-OC43_HE.1,1
+91,1,1,6,6,HCoV-OC43_HE,Antigen,No,hCoV,Yes,HCoV-OC43_HE.2,2
+158,1,1,10,5,HCoV-OC43_HE,Antigen,No,hCoV,Yes,HCoV-OC43_HE.3,3
+225,1,1,14,4,HCoV-OC43_HE,Antigen,No,hCoV,Yes,HCoV-OC43_HE.4,4
+22,1,1,2,5,HCoV-OC43_S1,Antigen,No,hCoV,Yes,HCoV-OC43_S1.1,1
+89,1,1,6,4,HCoV-OC43_S1,Antigen,No,hCoV,Yes,HCoV-OC43_S1.2,2
+156,1,1,10,3,HCoV-OC43_S1,Antigen,No,hCoV,Yes,HCoV-OC43_S1.3,3
+223,1,1,14,2,HCoV-OC43_S1,Antigen,No,hCoV,Yes,HCoV-OC43_S1.4,4
+23,1,1,2,6,HCoV-OC43_S1+S2,Antigen,No,hCoV,Yes,HCoV-OC43_S1+S2.1,1
+90,1,1,6,5,HCoV-OC43_S1+S2,Antigen,No,hCoV,Yes,HCoV-OC43_S1+S2.2,2
+157,1,1,10,4,HCoV-OC43_S1+S2,Antigen,No,hCoV,Yes,HCoV-OC43_S1+S2.3,3
+224,1,1,14,3,HCoV-OC43_S1+S2,Antigen,No,hCoV,Yes,HCoV-OC43_S1+S2.4,4
+54,1,1,4,3,hMPV-A_G (52N-228N),Antigen,No,Metapneumovirus,No,hMPV-A_G (52N-228N).1,1
+121,1,1,8,2,hMPV-A_G (52N-228N),Antigen,No,Metapneumovirus,No,hMPV-A_G (52N-228N).2,2
+188,1,1,12,1,hMPV-A_G (52N-228N),Antigen,No,Metapneumovirus,No,hMPV-A_G (52N-228N).3,3
+255,1,1,15,17,hMPV-A_G (52N-228N),Antigen,No,Metapneumovirus,No,hMPV-A_G (52N-228N).4,4
+56,1,1,4,5,hMPV-B_F (280D-490G),Antigen,No,Metapneumovirus,No,hMPV-B_F (280D-490G).1,1
+123,1,1,8,4,hMPV-B_F (280D-490G),Antigen,No,Metapneumovirus,No,hMPV-B_F (280D-490G).2,2
+190,1,1,12,3,hMPV-B_F (280D-490G),Antigen,No,Metapneumovirus,No,hMPV-B_F (280D-490G).3,3
+257,1,1,16,2,hMPV-B_F (280D-490G),Antigen,No,Metapneumovirus,No,hMPV-B_F (280D-490G).4,4
+55,1,1,4,4,hMPV-B_G (52D-238S),Antigen,No,Metapneumovirus,No,hMPV-B_G (52D-238S).1,1
+122,1,1,8,3,hMPV-B_G (52D-238S),Antigen,No,Metapneumovirus,No,hMPV-B_G (52D-238S).2,2
+189,1,1,12,2,hMPV-B_G (52D-238S),Antigen,No,Metapneumovirus,No,hMPV-B_G (52D-238S).3,3
+256,1,1,16,1,hMPV-B_G (52D-238S),Antigen,No,Metapneumovirus,No,hMPV-B_G (52D-238S).4,4
+57,1,1,4,6,hPIV-1 12O3_F,Antigen,No,Parainfluenza,No,hPIV-1 12O3_F.1,1
+124,1,1,8,5,hPIV-1 12O3_F,Antigen,No,Parainfluenza,No,hPIV-1 12O3_F.2,2
+191,1,1,12,4,hPIV-1 12O3_F,Antigen,No,Parainfluenza,No,hPIV-1 12O3_F.3,3
+258,1,1,16,3,hPIV-1 12O3_F,Antigen,No,Parainfluenza,No,hPIV-1 12O3_F.4,4
+58,1,1,4,7,hPIV-1 12O3_H,Antigen,No,Parainfluenza,No,hPIV-1 12O3_H.1,1
+125,1,1,8,6,hPIV-1 12O3_H,Antigen,No,Parainfluenza,No,hPIV-1 12O3_H.2,2
+192,1,1,12,5,hPIV-1 12O3_H,Antigen,No,Parainfluenza,No,hPIV-1 12O3_H.3,3
+259,1,1,16,4,hPIV-1 12O3_H,Antigen,No,Parainfluenza,No,hPIV-1 12O3_H.4,4
+59,1,1,4,8,hPIV-3 USA/10991B/2010_H,Antigen,No,Parainfluenza,No,hPIV-3 USA/10991B/2010_H.1,1
+126,1,1,8,7,hPIV-3 USA/10991B/2010_H,Antigen,No,Parainfluenza,No,hPIV-3 USA/10991B/2010_H.2,2
+193,1,1,12,6,hPIV-3 USA/10991B/2010_H,Antigen,No,Parainfluenza,No,hPIV-3 USA/10991B/2010_H.3,3
+260,1,1,16,5,hPIV-3 USA/10991B/2010_H,Antigen,No,Parainfluenza,No,hPIV-3 USA/10991B/2010_H.4,4
+60,1,1,4,9,hPIV-4b/10-H2/2016_F,Antigen,No,Parainfluenza,No,hPIV-4b/10-H2/2016_F.1,1
+127,1,1,8,8,hPIV-4b/10-H2/2016_F,Antigen,No,Parainfluenza,No,hPIV-4b/10-H2/2016_F.2,2
+194,1,1,12,7,hPIV-4b/10-H2/2016_F,Antigen,No,Parainfluenza,No,hPIV-4b/10-H2/2016_F.3,3
+261,1,1,16,6,hPIV-4b/10-H2/2016_F,Antigen,No,Parainfluenza,No,hPIV-4b/10-H2/2016_F.4,4
+61,1,1,4,10,hPIV-4b/10-H2/2016_H,Antigen,No,Parainfluenza,No,hPIV-4b/10-H2/2016_H.1,1
+128,1,1,8,9,hPIV-4b/10-H2/2016_H,Antigen,No,Parainfluenza,No,hPIV-4b/10-H2/2016_H.2,2
+195,1,1,12,8,hPIV-4b/10-H2/2016_H,Antigen,No,Parainfluenza,No,hPIV-4b/10-H2/2016_H.3,3
+262,1,1,16,7,hPIV-4b/10-H2/2016_H,Antigen,No,Parainfluenza,No,hPIV-4b/10-H2/2016_H.4,4
+8,1,1,1,8,Hu- IgA 0.1,Control,No,Controls,No,Hu- IgA 0.1.,.
+7,1,1,1,7,Hu- IgA 0.3,Control,No,Controls,No,Hu- IgA 0.3.,.
+5,1,1,1,5,Hu- IgG_0.03,Control,No,Controls,No,Hu- IgG_0.03.,.
+4,1,1,1,4,Hu- IgG_0.1,Control,No,Controls,No,Hu- IgG_0.1.,.
+11,1,1,1,11,Hu- IgM 0.1,Control,No,Controls,No,Hu- IgM 0.1.,.
+10,1,1,1,10,Hu- IgM 0.3,Control,No,Controls,No,Hu- IgM 0.3.,.
+33,1,1,2,16,MERS-CoV_NP,Antigen,Yes,MERS,Yes,MERS-CoV_NP.1,1
+100,1,1,6,15,MERS-CoV_NP,Antigen,Yes,MERS,Yes,MERS-CoV_NP.2,2
+167,1,1,10,14,MERS-CoV_NP,Antigen,Yes,MERS,Yes,MERS-CoV_NP.3,3
+234,1,1,14,13,MERS-CoV_NP,Antigen,Yes,MERS,Yes,MERS-CoV_NP.4,4
+29,1,1,2,12,"MERS-CoV_S1, N-(AA1-725, His Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1, N-(AA1-725, His Tag).1",1
+30,1,1,2,13,"MERS-CoV_S1, N-(AA1-725, His Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1, N-(AA1-725, His Tag).2",2
+96,1,1,6,11,"MERS-CoV_S1, N-(AA1-725, His Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1, N-(AA1-725, His Tag).3",3
+97,1,1,6,12,"MERS-CoV_S1, N-(AA1-725, His Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1, N-(AA1-725, His Tag).4",4
+163,1,1,10,10,"MERS-CoV_S1, N-(AA1-725, His Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1, N-(AA1-725, His Tag).5",5
+164,1,1,10,11,"MERS-CoV_S1, N-(AA1-725, His Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1, N-(AA1-725, His Tag).6",6
+230,1,1,14,9,"MERS-CoV_S1, N-(AA1-725, His Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1, N-(AA1-725, His Tag).7",7
+231,1,1,14,10,"MERS-CoV_S1, N-(AA1-725, His Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1, N-(AA1-725, His Tag).8",8
+31,1,1,2,14,MERS-CoV_S1+S2,Antigen,Yes,MERS,Yes,MERS-CoV_S1+S2.1,1
+98,1,1,6,13,MERS-CoV_S1+S2,Antigen,Yes,MERS,Yes,MERS-CoV_S1+S2.2,2
+165,1,1,10,12,MERS-CoV_S1+S2,Antigen,Yes,MERS,Yes,MERS-CoV_S1+S2.3,3
+232,1,1,14,11,MERS-CoV_S1+S2,Antigen,Yes,MERS,Yes,MERS-CoV_S1+S2.4,4
+28,1,1,2,11,"MERS-CoV_S1-RBD, N-(AA367-606, His Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA367-606, His Tag).1",1
+95,1,1,6,10,"MERS-CoV_S1-RBD, N-(AA367-606, His Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA367-606, His Tag).2",2
+162,1,1,10,9,"MERS-CoV_S1-RBD, N-(AA367-606, His Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA367-606, His Tag).3",3
+229,1,1,14,8,"MERS-CoV_S1-RBD, N-(AA367-606, His Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA367-606, His Tag).4",4
+27,1,1,2,10,"MERS-CoV_S1-RBD, N-(AA367-606, rFc Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA367-606, rFc Tag).1",1
+94,1,1,6,9,"MERS-CoV_S1-RBD, N-(AA367-606, rFc Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA367-606, rFc Tag).2",2
+161,1,1,10,8,"MERS-CoV_S1-RBD, N-(AA367-606, rFc Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA367-606, rFc Tag).3",3
+228,1,1,14,7,"MERS-CoV_S1-RBD, N-(AA367-606, rFc Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA367-606, rFc Tag).4",4
+25,1,1,2,8,"MERS-CoV_S1-RBD, N-(AA383-502, mFc Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA383-502, mFc Tag).1",1
+92,1,1,6,7,"MERS-CoV_S1-RBD, N-(AA383-502, mFc Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA383-502, mFc Tag).2",2
+159,1,1,10,6,"MERS-CoV_S1-RBD, N-(AA383-502, mFc Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA383-502, mFc Tag).3",3
+226,1,1,14,5,"MERS-CoV_S1-RBD, N-(AA383-502, mFc Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA383-502, mFc Tag).4",4
+26,1,1,2,9,"MERS-CoV_S1-RBD, N-(AA383-502, rFc Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA383-502, rFc Tag).1",1
+93,1,1,6,8,"MERS-CoV_S1-RBD, N-(AA383-502, rFc Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA383-502, rFc Tag).2",2
+160,1,1,10,7,"MERS-CoV_S1-RBD, N-(AA383-502, rFc Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA383-502, rFc Tag).3",3
+227,1,1,14,6,"MERS-CoV_S1-RBD, N-(AA383-502, rFc Tag)",Antigen,Yes,MERS,Yes,"MERS-CoV_S1-RBD, N-(AA383-502, rFc Tag).4",4
+32,1,1,2,15,MERS-CoV_S2,Antigen,Yes,MERS,Yes,MERS-CoV_S2.1,1
+99,1,1,6,14,MERS-CoV_S2,Antigen,Yes,MERS,Yes,MERS-CoV_S2.2,2
+166,1,1,10,13,MERS-CoV_S2,Antigen,Yes,MERS,Yes,MERS-CoV_S2.3,3
+233,1,1,14,12,MERS-CoV_S2,Antigen,Yes,MERS,Yes,MERS-CoV_S2.4,4
+6,1,1,1,6,PBST wash,WASH,No,Controls,No,PBST wash.1,1
+9,1,1,1,9,PBST wash,WASH,No,Controls,No,PBST wash.2,2
+12,1,1,1,12,PBST wash,WASH,No,Controls,No,PBST wash.3,3
+283,1,1,17,11,PBST wash,WASH,No,Controls,No,PBST wash.4,4
+286,1,1,17,14,PBST wash,WASH,No,Controls,No,PBST wash.5,5
+1,1,1,1,1,REF (Alexa 647+488),Control,No,Controls,No,REF (Alexa 647+488).1,1
+289,1,1,17,17,REF (Alexa 647+488),Control,No,Controls,No,REF (Alexa 647+488).2,2
+48,1,1,3,14,RSV-A_A2_F,Antigen,No,Respiratory Syncytial virus,No,RSV-A_A2_F.1,1
+115,1,1,7,13,RSV-A_A2_F,Antigen,No,Respiratory Syncytial virus,No,RSV-A_A2_F.2,2
+182,1,1,11,12,RSV-A_A2_F,Antigen,No,Respiratory Syncytial virus,No,RSV-A_A2_F.3,3
+249,1,1,15,11,RSV-A_A2_F,Antigen,No,Respiratory Syncytial virus,No,RSV-A_A2_F.4,4
+46,1,1,3,12,RSV-A_LA2-94/2013_F,Antigen,No,Respiratory Syncytial virus,No,RSV-A_LA2-94/2013_F.1,1
+113,1,1,7,11,RSV-A_LA2-94/2013_F,Antigen,No,Respiratory Syncytial virus,No,RSV-A_LA2-94/2013_F.2,2
+180,1,1,11,10,RSV-A_LA2-94/2013_F,Antigen,No,Respiratory Syncytial virus,No,RSV-A_LA2-94/2013_F.3,3
+247,1,1,15,9,RSV-A_LA2-94/2013_F,Antigen,No,Respiratory Syncytial virus,No,RSV-A_LA2-94/2013_F.4,4
+47,1,1,3,13,RSV-A_LA2-94/2013_G,Antigen,No,Respiratory Syncytial virus,No,RSV-A_LA2-94/2013_G.1,1
+114,1,1,7,12,RSV-A_LA2-94/2013_G,Antigen,No,Respiratory Syncytial virus,No,RSV-A_LA2-94/2013_G.2,2
+181,1,1,11,11,RSV-A_LA2-94/2013_G,Antigen,No,Respiratory Syncytial virus,No,RSV-A_LA2-94/2013_G.3,3
+248,1,1,15,10,RSV-A_LA2-94/2013_G,Antigen,No,Respiratory Syncytial virus,No,RSV-A_LA2-94/2013_G.4,4
+49,1,1,3,15,RSV-A_rsb1734_G,Antigen,No,Respiratory Syncytial virus,No,RSV-A_rsb1734_G.1,1
+116,1,1,7,14,RSV-A_rsb1734_G,Antigen,No,Respiratory Syncytial virus,No,RSV-A_rsb1734_G.2,2
+183,1,1,11,13,RSV-A_rsb1734_G,Antigen,No,Respiratory Syncytial virus,No,RSV-A_rsb1734_G.3,3
+250,1,1,15,12,RSV-A_rsb1734_G,Antigen,No,Respiratory Syncytial virus,No,RSV-A_rsb1734_G.4,4
+50,1,1,3,16,RSV-A_RSS-2_F,Antigen,No,Respiratory Syncytial virus,No,RSV-A_RSS-2_F.1,1
+117,1,1,7,15,RSV-A_RSS-2_F,Antigen,No,Respiratory Syncytial virus,No,RSV-A_RSS-2_F.2,2
+184,1,1,11,14,RSV-A_RSS-2_F,Antigen,No,Respiratory Syncytial virus,No,RSV-A_RSS-2_F.3,3
+251,1,1,15,13,RSV-A_RSS-2_F,Antigen,No,Respiratory Syncytial virus,No,RSV-A_RSS-2_F.4,4
+53,1,1,4,2,RSV-B_B1_G,Antigen,No,Respiratory Syncytial virus,No,RSV-B_B1_G.1,1
+120,1,1,8,1,RSV-B_B1_G,Antigen,No,Respiratory Syncytial virus,No,RSV-B_B1_G.2,2
+187,1,1,11,17,RSV-B_B1_G,Antigen,No,Respiratory Syncytial virus,No,RSV-B_B1_G.3,3
+254,1,1,15,16,RSV-B_B1_G,Antigen,No,Respiratory Syncytial virus,No,RSV-B_B1_G.4,4
+51,1,1,3,17,RSV-B_TH-10526/2014_F,Antigen,No,Respiratory Syncytial virus,No,RSV-B_TH-10526/2014_F.1,1
+118,1,1,7,16,RSV-B_TH-10526/2014_F,Antigen,No,Respiratory Syncytial virus,No,RSV-B_TH-10526/2014_F.2,2
+185,1,1,11,15,RSV-B_TH-10526/2014_F,Antigen,No,Respiratory Syncytial virus,No,RSV-B_TH-10526/2014_F.3,3
+252,1,1,15,14,RSV-B_TH-10526/2014_F,Antigen,No,Respiratory Syncytial virus,No,RSV-B_TH-10526/2014_F.4,4
+52,1,1,4,1,RSV-B_TH-10526/2014_G,Antigen,No,Respiratory Syncytial virus,No,RSV-B_TH-10526/2014_G.1,1
+119,1,1,7,17,RSV-B_TH-10526/2014_G,Antigen,No,Respiratory Syncytial virus,No,RSV-B_TH-10526/2014_G.2,2
+186,1,1,11,16,RSV-B_TH-10526/2014_G,Antigen,No,Respiratory Syncytial virus,No,RSV-B_TH-10526/2014_G.3,3
+253,1,1,15,15,RSV-B_TH-10526/2014_G,Antigen,No,Respiratory Syncytial virus,No,RSV-B_TH-10526/2014_G.4,4
+37,1,1,3,3,SARS-CoV_NP,Antigen,Yes,SARS,Yes,SARS-CoV_NP.1,1
+104,1,1,7,2,SARS-CoV_NP,Antigen,Yes,SARS,Yes,SARS-CoV_NP.2,2
+171,1,1,11,1,SARS-CoV_NP,Antigen,Yes,SARS,Yes,SARS-CoV_NP.3,3
+238,1,1,14,17,SARS-CoV_NP,Antigen,Yes,SARS,Yes,SARS-CoV_NP.4,4
+38,1,1,3,4,SARS-CoV_PLpro,Antigen,Yes,SARS,Yes,SARS-CoV_PLpro.1,1
+105,1,1,7,3,SARS-CoV_PLpro,Antigen,Yes,SARS,Yes,SARS-CoV_PLpro.2,2
+172,1,1,11,2,SARS-CoV_PLpro,Antigen,Yes,SARS,Yes,SARS-CoV_PLpro.3,3
+239,1,1,15,1,SARS-CoV_PLpro,Antigen,Yes,SARS,Yes,SARS-CoV_PLpro.4,4
+36,1,1,3,2,"SARS-CoV_S1, (His Tag)",Antigen,Yes,SARS,Yes,"SARS-CoV_S1, (His Tag).1",1
+103,1,1,7,1,"SARS-CoV_S1, (His Tag)",Antigen,Yes,SARS,Yes,"SARS-CoV_S1, (His Tag).2",2
+170,1,1,10,17,"SARS-CoV_S1, (His Tag)",Antigen,Yes,SARS,Yes,"SARS-CoV_S1, (His Tag).3",3
+237,1,1,14,16,"SARS-CoV_S1, (His Tag)",Antigen,Yes,SARS,Yes,"SARS-CoV_S1, (His Tag).4",4
+35,1,1,3,1,"SARS-CoV_S1-RBD, (His Tag)",Antigen,Yes,SARS,Yes,"SARS-CoV_S1-RBD, (His Tag).1",1
+102,1,1,6,17,"SARS-CoV_S1-RBD, (His Tag)",Antigen,Yes,SARS,Yes,"SARS-CoV_S1-RBD, (His Tag).2",2
+169,1,1,10,16,"SARS-CoV_S1-RBD, (His Tag)",Antigen,Yes,SARS,Yes,"SARS-CoV_S1-RBD, (His Tag).3",3
+236,1,1,14,15,"SARS-CoV_S1-RBD, (His Tag)",Antigen,Yes,SARS,Yes,"SARS-CoV_S1-RBD, (His Tag).4",4
+34,1,1,2,17,"SARS-CoV_S1-RBD, rFc Tag",Antigen,Yes,SARS,Yes,"SARS-CoV_S1-RBD, rFc Tag.1",1
+101,1,1,6,16,"SARS-CoV_S1-RBD, rFc Tag",Antigen,Yes,SARS,Yes,"SARS-CoV_S1-RBD, rFc Tag.2",2
+168,1,1,10,15,"SARS-CoV_S1-RBD, rFc Tag",Antigen,Yes,SARS,Yes,"SARS-CoV_S1-RBD, rFc Tag.3",3
+235,1,1,14,14,"SARS-CoV_S1-RBD, rFc Tag",Antigen,Yes,SARS,Yes,"SARS-CoV_S1-RBD, rFc Tag.4",4
