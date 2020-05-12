@@ -18,15 +18,15 @@ The analysis is divided into two scripts:
   
 Analysis folder must follow the following structure:
 
-ROOT / 
-       InputFolder/
-       Output/
-              rocDFs/
-       Figures/ 
-               MultiAUC/
-               Antigens/
-       Source/
-       SavedSessions/
+ROOT /   
+        InputFolder/
+        Output/
+                rocDFs/
+        Figures/ 
+                 MultiAUC/
+                 Antigens/
+        Source/
+        SavedSessions/
   
 All input files must be copied into the 'InputFolder' folder  
 Both script files must be copied into the 'Source' folder
