@@ -1,6 +1,6 @@
 # Nature.Communications-1-2020
 Source code of data analysis for Nature Comm manuscript 05/2020
-requirements:
+requirements:\n
   tidyverse 1.3.0
   matrixStats 0.52.0
   preprocessCore (Bioconductor 3.11)
