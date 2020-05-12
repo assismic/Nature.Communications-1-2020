@@ -2,15 +2,15 @@
 Source code of data analysis for Nature Comm manuscript 05/2020
 
 requirements:
-  tidyverse 1.3.0
-  matrixStats 0.52.0
-  preprocessCore (Bioconductor 3.11)
-  sjmisc 2.8.4
-  caret 6-0.86
-  ROCR 1.0-11
-  pROC 1.16.2
-  ggpubr 0.3.0
-  ggplot2 3.3.0
+  tidyverse 1.3.0;
+  matrixStats 0.52.0;
+  preprocessCore (Bioconductor 3.11);
+  sjmisc 2.8.4;
+  caret 6-0.86;
+  ROCR 1.0-11;
+  pROC 1.16.2;
+  ggpubr 0.3.0;
+  ggplot2 3.3.0;
   
 
 The analysis is divided into two scripts:
@@ -20,14 +20,15 @@ The analysis is divided into two scripts:
 Analysis folder must follow the following structure:
 
 ROOT /   
-        InputFolder/
-        Output/
-                rocDFs/
-        Figures/ 
-                 MultiAUC/
-                 Antigens/
-        Source/
-        SavedSessions/
+....... InputFolder/
+....... Output/
+................ rocDFs/
+....... Figures/ 
+................ MultiAUC/
+................ Antigens/
+....... Source/
+....... SavedSessions/
+
   
 All input files must be copied into the 'InputFolder' folder  
 Both script files must be copied into the 'Source' folder
