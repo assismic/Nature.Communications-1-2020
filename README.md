@@ -21,12 +21,16 @@ Analysis folder must follow the following structure:
 
 ROOT /   
 ....... InputFolder/
+
 ....... Output/
 ................ rocDFs/
+
 ....... Figures/ 
 ................ MultiAUC/
 ................ Antigens/
+
 ....... Source/
+
 ....... SavedSessions/
 
   
